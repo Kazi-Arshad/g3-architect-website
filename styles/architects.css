@@ -216,9 +216,7 @@ main>section {
     font-weight: 700;
 }
 
-.feature-architect img {
-    width: 100%;
-}
+
 
 /* footer  */
 footer {
@@ -272,6 +270,9 @@ footer {
         margin-left: 20px;
     }
 
+    .feature-architect img {
+        width: 100%;
+    }
 
 }
 
@@ -303,6 +304,9 @@ footer {
         margin-left: 20px;
     }
 
+    .feature-architect img {
+        width: 100%;
+    }
 
 
 }
